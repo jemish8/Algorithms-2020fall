@@ -17,65 +17,65 @@
 ## D. Textbook  
 CLRS 3rd Edition (ISBN 978-0-262-03384-8 or ISBN 978-0-262-53305-8); at [amazon](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844#ace-g7448806443).
 
-## E. Course topics
+## E. Course topics (Book's sections)
 
 * **Chapter 3 - Growth of Functions**  
   - 3.1 Asymptotic notation  
   - 3.2 Standard notations and common functions  
 
-Chapter 4 - Divide-and-Conquer
-4.1 The maximum-subarray problem
-4.2 Strassen’s algorithm for matrix multiplication
-4.3 The substitution method for solving recurrences
-4.4 The recursion-tree method for solving recurrences 
-4.5 The master method for solving recurrences
+* **Chapter 4 - Divide-and-Conquer**  
+  - 4.1 The maximum-subarray problem  
+  - 4.2 Strassen’s algorithm for matrix multiplication   
+  - 4.3 The substitution method for solving recurrences  
+  - 4.4 The recursion-tree method for solving recurrences   
+  - 4.5 The master method for solving recurrences  
 
-Chapter 15 - Dynamic Programming
-15.1 Rod cutting
-15.2 Matrix-chain multiplication
-15.3 Elements of dynamic programming
-15.4 Longest common subsequence
+* **Chapter 15 - Dynamic Programming**  
+  - 15.1 Rod cutting  
+  - 15.2 Matrix-chain multiplication  
+  - 15.3 Elements of dynamic programming  
+  - 15.4 Longest common subsequence  
 
-Chapter 16 - Greedy Algorithms
-16.1 An activity-selection problem
-16.2 Elements of the greedy strategy
-16.3 Huffman codes
+* **Chapter 16 - Greedy Algorithms**  
+  - 16.1 An activity-selection problem  
+  - 16.2 Elements of the greedy strategy  
+  - 16.3 Huffman codes  
 
-Chapter 17 - Amortized Analysis
-17.1 Aggregate analysis
+* **Chapter 17 - Amortized Analysis**  
+  - 17.1 Aggregate analysis  
 
-Chapter 22 - Elementary Graph Algorithms
-22.1 Representations of graphs
-22.2 Breadth-ﬁrst search
-22.3 Depth-ﬁrst search
+* **Chapter 22 - Elementary Graph Algorithms**  
+  - 22.1 Representations of graphs  
+  - 22.2 Breadth-ﬁrst search  
+  - 22.3 Depth-ﬁrst search   
 
-Chapter 23 - Minimum Spanning Trees
-23.1 Growing a minimum spanning tree
-23.2 The algorithms of Kruskal and Prim
+* **Chapter 23 - Minimum Spanning Trees**  
+  - 23.1 Growing a minimum spanning tree  
+  - 23.2 The algorithms of Kruskal and Prim  
 
-Chapter 24 - Single-Source Shortest Paths
-24.1 The Bellman-Ford algorithm
-24.2 Single-source shortest paths in directed acyclic graphs
-24.3 Dijkstra’s algorithm
+* **Chapter 24 - Single-Source Shortest Paths**   
+  - 24.1 The Bellman-Ford algorithm  
+  - 24.2 Single-source shortest paths in directed acyclic graphs  
+  - 24.3 Dijkstra’s algorithm  
 
-Chapter 25 - All-Pairs Shortest Paths
-25.1 Shortest paths and matrix multiplication
-25.2 The Floyd-Warshall algorithm
+* **Chapter 25 - All-Pairs Shortest Paths**  
+  - 25.1 Shortest paths and matrix multiplication  
+  - 25.2 The Floyd-Warshall algorithm  
 
-Chapter 26 - Maximum Flow
-26.1 Flow networks
-26.2 The Ford-Fulkerson method
-26.3 Maximum bipartite matching
+* **Chapter 26 - Maximum Flow**  
+  - 26.1 Flow networks  
+  - 26.2 The Ford-Fulkerson method  
+  - 26.3 Maximum bipartite matching  
 
-Chapter 34 - NP-Completeness (skip proofs)
-34.1 Polynomial time
-34.2 Polynomial-time veriﬁcation
-34.3 NP-completeness and reducibility
+* **Chapter 34 - NP-Completeness (skip proofs)**  
+  - 34.1 Polynomial time  
+  - 34.2 Polynomial-time veriﬁcation  
+  - 34.3 NP-completeness and reducibility  
 
-Chapter 35 - Approximation Algorithms (skip proofs)
-35.1 The vertex-cover problem
-35.2 The traveling-salesman problem
-35.3 The set-covering problem
+* **Chapter 35 - Approximation Algorithms (skip proofs)**  
+  - 35.1 The vertex-cover problem  
+  - 35.2 The traveling-salesman problem  
+  - 35.3 The set-covering problem  
 
 ## F. Course materials  
 * All course materials are inside the relevant folders in Github location
