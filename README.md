@@ -84,28 +84,28 @@ CLRS 3rd Edition (ISBN 978-0-262-03384-8 or ISBN 978-0-262-53305-8); at [amazon]
 ## G. Programming language
 * Python3 is language for the course; you are expected to use Python3 for all of your homeworks and project. If you have a strong reason to use a different programming language, please send me an email and I may approve you to use a language of your choice.
 
-## K. Due dates and late policy  
+## H. Due dates and late policy  
 * You can request a maximum two-day extension on any homeworks - for up to two submissions. 
 * If you email me a few hours before a deadline and I don't reply you immediately, and if you have not used your two-day extensions, you can assume that the extension is granted automatically.
 * Once you use your extension days, late submissions will get no points.
 
-## O. Oral final exam
+## I. Oral final exam
 The finals for this course will be in the form of a oral test, via Zoom one-on-one meetings. Each meeting may be up to 60 minutes long. Although some oral questions may check your understanding of the concepts, questions on the oral test will mostly focus on the details. Questions in the oral test will be from your own homework submissions. I will randomly pick one of your homework submissions, and ask you some details. Some students who have done exceptionally well may be exempt from the oral test. I will send an email to you if you are exempt, you cannot email and ask to be exempt. Closer to the finals week, you will be able to sign-up to select a time that works for you. Here is an example question:
 * In your homework number 3, in paragraph 5, you discuss X and Y. Please mention the purpose of X.
 
-## P. Attendance
+## J. Attendance
 * Attendance will be recorded sometimes.
 
-## Q. Grade composition  
+## K. Grade composition  
 * Homeworks (including programming homeworks) = 50 points
 * Project = 10 points
 * Final oral exam = 40 points
 * 1 bonus point to everyone who complete the course evaluation survey (please email me once you submit the survey)
 
-## R. Grading scheme  
+## L. Grading scheme  
    <img src="supporting_files/grades.png" align="middle" width="450"/>
 
-## S. Resources
+## M. Resources
 * [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221)
 * [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223)
 
