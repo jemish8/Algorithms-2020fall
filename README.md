@@ -14,37 +14,70 @@
 ## C. Prerequisites  
 * Graduate Standing in CS
 
-## D. Learning outcomes  
-I teach this course differently. Although I cover the book's chapter topics, the focus of the course is on the [activities](./activities/README.md). The activities are the heart of the course. I believe that you will learn more from the lectures when you watch them at home. So, I have recorded the chapter lectures for you to watch at home. During class, we will focus on activities. I will provide you the technical support you need to complete the activities. We all learn more by `doing` and this is exactly what we will do in this course. Below are the learning outcomes:
-* Use Python, Numpy and Keras to design, train, and evaluate basic feed-forward neural networks
-* Learn artificial intelligence principles and approaches
-* Learn a basic understanding of the building blocks of AI as presented in terms of intelligent agents
-* Evaluate various searching algorithms
-* Understand problems and ideas in the field of natural language processing, perception, and robotics
-* Learn the philosophical foundations of AI and the future of AI
-* Implement various AI algorithms such as depth-first search, and breadth-first search.
+## D. Textbook  
+CLRS 3rd Edition (ISBN 978-0-262-03384-8 or ISBN 978-0-262-53305-8); at [amazon](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844#ace-g7448806443).
 
-## E. Textbook  
-Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://www.pearson.com/us/higher-education/product/Russell-Artificial-Intelligence-A-Modern-Approach-3rd-Edition/9780136042594.html).
+## E. Course topics
 
-## F. Course topics
-- **Book chapters**  
-  - Chapter 18 - Learning From Examples 
-  - Chapter 1 - Introduction 
-  - Chapter 2 - Intelligent Agents
-  - Chapter 3 - Solving Problems by Searching 
-  - Chapter 5 - Adversarial Search
-  - Chapter 7 - Logical Agents
-  - Chapter 22 - Natural Language Processing
-  - Chapter 24 - Perception 
-  - Chapter 25 - Robotics
-  - Chapter 26 - Philosophical Foundations  
-- **Machine learning using Tensorflow**   
-  - Basics of Python, Numpy and Keras
-  - Design, train, and evaluate basic feed-forward neural networks
-  - Study feature importance and feature reduction
+Chapter 3 - Growth of Functions
+3.1 Asymptotic notation
+3.2 Standard notations and common functions
 
-## G. Course materials  
+Chapter 4 - Divide-and-Conquer
+4.1 The maximum-subarray problem
+4.2 Strassen’s algorithm for matrix multiplication
+4.3 The substitution method for solving recurrences
+4.4 The recursion-tree method for solving recurrences 
+4.5 The master method for solving recurrences
+
+Chapter 15 - Dynamic Programming
+15.1 Rod cutting
+15.2 Matrix-chain multiplication
+15.3 Elements of dynamic programming
+15.4 Longest common subsequence
+
+Chapter 16 - Greedy Algorithms
+16.1 An activity-selection problem
+16.2 Elements of the greedy strategy
+16.3 Huffman codes
+
+Chapter 17 - Amortized Analysis
+17.1 Aggregate analysis
+
+Chapter 22 - Elementary Graph Algorithms
+22.1 Representations of graphs
+22.2 Breadth-ﬁrst search
+22.3 Depth-ﬁrst search
+
+Chapter 23 - Minimum Spanning Trees
+23.1 Growing a minimum spanning tree
+23.2 The algorithms of Kruskal and Prim
+
+Chapter 24 - Single-Source Shortest Paths
+24.1 The Bellman-Ford algorithm
+24.2 Single-source shortest paths in directed acyclic graphs
+24.3 Dijkstra’s algorithm
+
+Chapter 25 - All-Pairs Shortest Paths
+25.1 Shortest paths and matrix multiplication
+25.2 The Floyd-Warshall algorithm
+
+Chapter 26 - Maximum Flow
+26.1 Flow networks
+26.2 The Ford-Fulkerson method
+26.3 Maximum bipartite matching
+
+Chapter 34 - NP-Completeness (skip proofs)
+34.1 Polynomial time
+34.2 Polynomial-time veriﬁcation
+34.3 NP-completeness and reducibility
+
+Chapter 35 - Approximation Algorithms (skip proofs)
+35.1 The vertex-cover problem
+35.2 The traveling-salesman problem
+35.3 The set-covering problem
+
+## F. Course materials  
 * All course materials are inside the relevant folders in Github location
 * Recorded lectures of the chapters are [here](./LECTURES.md)
  
