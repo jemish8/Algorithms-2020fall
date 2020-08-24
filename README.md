@@ -12,7 +12,7 @@
 * This course covers analysis of time and space complexity of iterative and recursive algorithms, design of data structures for efficient performance, mathematical modeling, dynamic programming, divide and conquer strategies, greedy algorithms, a collection of graph algorithms, linear and integer mathematical programming, and NP-Completeness. \[3 credit units\].
 
 ## C. Prerequisites  
-* CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
+* Graduate Standing in CS
 
 ## D. Learning outcomes  
 I teach this course differently. Although I cover the book's chapter topics, the focus of the course is on the [activities](./activities/README.md). The activities are the heart of the course. I believe that you will learn more from the lectures when you watch them at home. So, I have recorded the chapter lectures for you to watch at home. During class, we will focus on activities. I will provide you the technical support you need to complete the activities. We all learn more by `doing` and this is exactly what we will do in this course. Below are the learning outcomes:
