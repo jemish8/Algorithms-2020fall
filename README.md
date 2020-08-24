@@ -91,7 +91,7 @@ CLRS 3rd Edition (ISBN 978-0-262-03384-8 or ISBN 978-0-262-53305-8); at [amazon]
 
 ## O. Oral final exam
 The finals for this course will be in the form of a oral test, via Zoom one-on-one meetings. Each meeting may be up to 60 minutes long. Although some oral questions may check your understanding of the concepts, questions on the oral test will mostly focus on the details. Questions in the oral test will be from your own homework submissions. I will randomly pick one of your homework submissions, and ask you some details. Some students who have done exceptionally well may be exempt from the oral test. I will send an email to you if you are exempt, you cannot email and ask to be exempt. Closer to the finals week, you will be able to sign-up to select a time that works for you. Here is an example questions:
-1. In your homework number 3, in paragraph 5, you discuss X and Y. Please mention the purpose of X.
+* In your homework number 3, in paragraph 5, you discuss X and Y. Please mention the purpose of X.
 
 ## P. Attendance
 * Attendance will be recorded sometimes.
