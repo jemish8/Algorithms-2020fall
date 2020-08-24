@@ -19,9 +19,9 @@ CLRS 3rd Edition (ISBN 978-0-262-03384-8 or ISBN 978-0-262-53305-8); at [amazon]
 
 ## E. Course topics
 
-Chapter 3 - Growth of Functions
-3.1 Asymptotic notation
-3.2 Standard notations and common functions
+* Chapter 3 - Growth of Functions  
+  - 3.1 Asymptotic notation  
+  - 3.2 Standard notations and common functions  
 
 Chapter 4 - Divide-and-Conquer
 4.1 The maximum-subarray problem
