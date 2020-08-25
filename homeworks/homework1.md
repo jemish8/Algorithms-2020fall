@@ -11,3 +11,8 @@ Reorder the following terms from lowest to highest time complexity, using â€˜<â€
 - O(k lg n)  
 - O(n <sup>100000</sup>)  
 - O(n * lg n)  
+
+# Question 2 (CLRS 3.1-4)
+- Is 2<sup>n+1</sup> = O(2<sup>n</sup>)?  
+- Is 2<sup>2n</sup> = O(2<sup>n</sup>)?  
+
