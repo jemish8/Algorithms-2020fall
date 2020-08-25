@@ -1,4 +1,5 @@
-Q1. Reorder the following terms from lowest to highest time complexity, using ‘<’ between terms. If two terms have the same complexity, use an equal sign instead. Assume n > 1 and ‘k’ is a constant. Note that not all terms are shown in their most reduced forms.
+# Question 1
+Reorder the following terms from lowest to highest time complexity, using ‘<’ between terms. If two terms have the same complexity, use an equal sign instead. Assume n > 1 and ‘k’ is a constant. Note that not all terms are shown in their most reduced forms.
 - O(n<sup>2</sup>)    
 - O(kn)  
 - O(1)  
