@@ -12,7 +12,10 @@ Reorder the following terms from lowest to highest time complexity, using â€˜<â€
 - O(n <sup>100000</sup>)  
 - O(n * lg n)  
 
-# Question 2 (CLRS 3.1-4)
+# Question 2 (CLRS 3.1-3)
+- Explain why the statement, "The running time of algorithm A is at least O(n<sup>2</sup>)," is meaningless.
+
+# Question 3 (CLRS 3.1-4)
 - Is 2<sup>n+1</sup> = O(2<sup>n</sup>)? Explain.  
 - Is 2<sup>2n</sup> = O(2<sup>n</sup>)? Explain.    
 
