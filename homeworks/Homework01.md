@@ -20,4 +20,6 @@ Reorder the following terms from lowest to highest time complexity, using â€˜<â€
 - Is 2<sup>2n</sup> = O(2<sup>n</sup>)? Explain.    
 
 # Question 4 (CLRS 3-3(a))
-Rank the following functions by order of growth. Discuss which of the functions are equivalent. You can skip all the iterated logarithm (lg*) functions.
+Rank the following functions by order of growth and describe how you obtained the ranking. Also discuss which of the functions are equivalent. You can skip all the iterated logarithm (lg*) functions. Hint: Besides the mathematical analysis, two additional techniques that you MAY use to determine the growth are: (a) plotting the functions, and (b) timing the execution of the functions as shown [here](timing-execution.md).
+
+
