@@ -19,3 +19,5 @@ Reorder the following terms from lowest to highest time complexity, using â€˜<â€
 - Is 2<sup>n+1</sup> = O(2<sup>n</sup>)? Explain.  
 - Is 2<sup>2n</sup> = O(2<sup>n</sup>)? Explain.    
 
+# Question 4 (CLRS 3-3(a))
+Rank the following functions by order of growth. Discuss which of the functions are equivalent. You can skip all the iterated logarithm (lg*) functions.
