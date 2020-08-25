@@ -1,3 +1,13 @@
+Q1. Reorder the following terms from lowest to highest time complexity, using ‘<’ between terms. If two terms have the same complexity, use an equal sign instead. Assume n > 1 and ‘k’ is a constant. Note that not all terms are shown in their most reduced forms.
 
-
-O(n<sup>2</sup>) O(kn) O(1) O(100,000n) O(n!) O(lg n) O(2n) O(n) O(k lg n) O(n100,000) O(n lg n)
+O(n<sup>2</sup>)
+O(kn)
+O(1)
+O(100000 * n)
+O(n!)
+O(lg n)  - lg is log2
+O(2n)
+O(n)
+O(k lg n)
+O(n * 100000)
+O(n * lg n)
