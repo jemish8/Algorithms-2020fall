@@ -82,7 +82,7 @@ CLRS 3rd Edition (ISBN 978-0-262-03384-8 or ISBN 978-0-262-53305-8); at [amazon]
 * Lecture recordings, audio or video, are not permitted.
 
 ## G. Programming language
-* Python3 is language for the course; you are recommended (not required) to use Python3 for all of your homeworks and project. If you have a reason to use a different programming language (for example your background is in C++ or Java), please send me an email and I can approve you to use a language of your choice.
+* You are recommended (but not required) to use Python3 for all of your homeworks and project. If you have a reason to use a different programming language (for example if your background is in C++ or Java), please send me an email and I can approve you to use a language of your choice.
 
 ## H. Due dates and late policy  
 * You can request a maximum two-day extension on any homeworks - for up to two submissions. 
