@@ -96,16 +96,23 @@ The finals for this course will be in the form of a oral test, via Zoom one-on-o
 ## J. Attendance
 * Attendance will be recorded sometimes.
 
-## K. Grade composition  
+## K. Project
+* In the semester long-project you are expected to demonstrate an implementation of some practical application of algorithms. You are free to work on "any" project related to any of the algorithms we discuss in class. There are no specific requirements.
+* Here is an example project by a student who took this course in Fall 2018 - [MAZE-A-TRON game using BFS](http://umsl.edu/~adhikarib/cs4130-fall2017/student-projects/mazeatron/) [report](http://umsl.edu/~adhikarib/cs4130-fall2017/student-projects/mazeatron-report.pdf)
+
+## L. Homeworks
+* There will be some homeworks from each chapter that we cover. Many of the homeworks will require you to implement algorithms. Some homeworks will require you to trace an algorithm (in paper) and submit your solution. You can take a picture of your solution and submit in Canvas.
+
+## M. Grade composition  
 * Homeworks (including programming homeworks) = 50 points
 * Project = 10 points
 * Final oral exam = 40 points
 * 1 bonus point to everyone who complete the course evaluation survey (please email me once you submit the survey)
 
-## L. Grading scheme  
+## N. Grading scheme  
    <img src="supporting_files/grades.png" align="middle" width="450"/>
 
-## M. Resources
+## O. Resources
 * [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221)
 * [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223)
 
