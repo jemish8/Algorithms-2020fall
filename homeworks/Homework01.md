@@ -24,3 +24,7 @@ Rank the following functions by order of growth and **describe how you obtained 
 
 <img src="ordering-growth-rate.png" align="middle" width="350"/>
 
+
+Help: 
+- https://atekihcan.github.io/CLRS/P03-03/  
+- https://atekihcan.github.io/CLRS/E03.01-04/  
