@@ -1,3 +1,12 @@
+# Read sections 3.1 and 3.2 from CLRS
+Please read this with the goal of using the knowledge to do the homework below.
+
+# Watch the recorded lectures
+- [Introduction](https://youtu.be/rP-sx1y4RS0)
+- [Review insertion sort](https://www.youtube.com/watch?v=JU767SDMDvA)
+- [Review merge sort](https://www.youtube.com/watch?v=4VqmGXwpLqc)
+- [Asymptotic notations - will post soon]()
+
 # Question 1
 Reorder the following terms from lowest to highest time complexity, using `<` between terms. If two terms have the same complexity, use an equal sign instead. Assume `n>1` and `k` is a constant.
 - O(n<sup>2</sup>)    
