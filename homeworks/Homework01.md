@@ -1,3 +1,8 @@
+# Google Colab and Python
+* Watch how to use [Google Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8)
+* Practice Python3 - [notebook](../notebooks/python.ipynb) and watch [lecture](https://www.youtube.com/watch?v=V42qfAPybp8)
+* If you are new to Python, I suggest practicing Python at online platforms such as [codewars.org](https://www.codewars.com/)
+
 # Read sections 3.1 and 3.2 from CLRS
 Please read this with the goal of using the knowledge to do the homework below.
 
