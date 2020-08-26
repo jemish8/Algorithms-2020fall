@@ -5,8 +5,8 @@
 ## A. Class and office hours
 * Instructor: [Badri Adhikari](http://umsl.edu/~adhikarib/)
 * Email: [adhikarib@umsl.edu](mailto:adhikarib@umsl.edu)
-* Class meets: `TR 8:20PM - 9:35PM` (synchronously via Zoom)
-* Office hours: Tuesdays 1:45 PM to 3:45 PM (please email me if this time does not work for you, and we can find a different time that works for us)
+* Class meets: `Tuesdays 8:20PM - 9:35PM` (synchronously via Zoom)
+* Office hours: Tuesdays 1:45 PM to 3:45 PM (or by appointment)
 
 ## B. About the course (Official course description)
 * This course covers analysis of time and space complexity of iterative and recursive algorithms, design of data structures for efficient performance, mathematical modeling, dynamic programming, divide and conquer strategies, greedy algorithms, a collection of graph algorithms, linear and integer mathematical programming, and NP-Completeness. \[3 credit units\].
