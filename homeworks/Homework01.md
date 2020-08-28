@@ -10,7 +10,7 @@ Please read this with the goal of using the knowledge to do the homework below.
 - [Introduction](https://youtu.be/rP-sx1y4RS0)
 - [Review insertion sort](https://www.youtube.com/watch?v=JU767SDMDvA)
 - [Review merge sort](https://www.youtube.com/watch?v=4VqmGXwpLqc)
-- [Analysis of insertion sort and merge sort]()
+- [Analysis of insertion sort and merge sort](https://youtu.be/OT6CiGMhE90)
 - [Asymptotic notations](https://youtu.be/53e9DxMK7EQ)
 
 # Question 1
