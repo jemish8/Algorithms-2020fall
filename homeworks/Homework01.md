@@ -10,7 +10,8 @@ Please read this with the goal of using the knowledge to do the homework below.
 - [Introduction](https://youtu.be/rP-sx1y4RS0)
 - [Review insertion sort](https://www.youtube.com/watch?v=JU767SDMDvA)
 - [Review merge sort](https://www.youtube.com/watch?v=4VqmGXwpLqc)
-- Will post soon - [Asymptotic notations]()
+- [Analysis of insertion sort and merge sort]()
+- [Asymptotic notations](https://youtu.be/53e9DxMK7EQ)
 
 # Question 1
 Reorder the following terms from lowest to highest time complexity, using `<` between terms. If two terms have the same complexity, use an equal sign instead. Assume `n>1` and `k` is a constant.
