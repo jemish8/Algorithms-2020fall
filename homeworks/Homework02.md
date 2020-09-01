@@ -42,7 +42,7 @@ for i in range(1, len(p)):
 Discuss why the recursive solution to the rod cutting problem is so inefficient?
 
 # Question 4
-Discuss what are the two dynamic programing approaches are.
+Discuss the two dynamic programing approaches. If you were asked to implement, which one would you choose, and why?
 
 # Question 5
 Comapare and discuss the running times of a recursive solution and a the dynamic programming solution to the rod curring problem.
