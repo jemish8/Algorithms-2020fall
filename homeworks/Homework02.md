@@ -10,7 +10,7 @@ Please read this with the goal of using the knowledge to do the homework below.
 - [Dynamic programming for solving the rod cutting problem](https://youtu.be/L9Y1pqtptPE)
 
 # Question 1
-Create your own length-price table consisting of at least six length-price pairs and with the help of this table explain the rod cutting problem `in your own words`.
+Create your own length-price table consisting of at least six length-price pairs and with the help of this table explain the rod cutting problem ***in your own words***.
 
 # Question 2
 Change the following recursive implementation to solve the rod cutting algorithm so it also prints where to make the cuts. Verify your answer by checking if the optimal cuts suggested by your program actually result in maximum revenue.
