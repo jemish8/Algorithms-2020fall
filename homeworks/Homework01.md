@@ -22,7 +22,8 @@ Reorder the following terms from lowest to highest time complexity, using `<` be
 - O(1)  
 - O(100000 * n)  
 - O(n!)  
-- O(lg n)  - lg is log2  
+- O(lg n)
+   - lg is log<sub>2</sub>  
 - O(2n)  
 - O(n)  
 - O(k lg n)  
