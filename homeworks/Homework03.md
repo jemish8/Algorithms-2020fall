@@ -23,7 +23,7 @@ For the problem of calculating n<sup>th</sup> Fibonacci number, propose a recurs
 What is the matrix chain multiplication problem? Discuss how dynamic programming can be applied to solve it.
 
 # Question 5 (programming)
-The `non structural protein 2 (nsp2)` protein is found to be linked to the mechanism of Coronavirus ([read more](https://onlinelibrary.wiley.com/doi/10.1002/jmv.25719)). Below is the sequence of this protein. In addition to the sequence of this protein, below are the sequences of two other similar (homologous) proteins (see nsp2.hhba3m.txt for the alignment). Implement a dynamic programming solution to calculate the longest common subsequence (LCS) between - a) `nsp2` and `A0A1B3Q5V8` and b) `nsp2` and `A0A1B3Q5V8`.
+The `non structural protein 2 (nsp2)` protein is found to be linked to the mechanism of Coronavirus ([read more](https://onlinelibrary.wiley.com/doi/10.1002/jmv.25719)). Below is the sequence of this protein. In addition to the sequence of this protein, below are the sequences of two other similar (homologous) proteins (see [nsp2.hhba3m.txt](./nsp2.hhba3m.txt) for the alignment). Implement a dynamic programming solution to calculate the longest common subsequence (LCS) between - a) `nsp2` and `A0A1B3Q5V8` and b) `nsp2` and `A0A1B3Q5V8`.
 
 ```
 >nsp2
