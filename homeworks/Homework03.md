@@ -37,5 +37,5 @@ YVDQYMCGADGKPVieGDFKDYFGDEDIIEFEGEEYHCAWTTVRDEKPLNQQTLFTIQEIQYNLDIPHKLPNCATRHVAP
 ```
 
 # Question 6 (programming)
-Implement a dynamic programming algorithm to calculate the longest common subsequence (LCS) of `<1,0,0,1,0,1,0,1>` and `<0,1,0,1,1,0,1,1,0>` (CLRS: 15.4-1). 
+Implement a dynamic programming solution to calculate the longest common subsequence (LCS) of `<1,0,0,1,0,1,0,1>` and `<0,1,0,1,1,0,1,1,0>` (CLRS: 15.4-1). 
 
