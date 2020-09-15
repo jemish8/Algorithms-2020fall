@@ -9,7 +9,8 @@ Please read this with the goal of using the knowledge to do the homework below.
 - [Optimal substructure of the activity selection problem](https://youtu.be/LmlHHSr7gys)
 - [Intuition for understanding how greedy algorithms work](https://youtu.be/BWlXudP7Unk)
 - [Recursive greedy algorithm for the activity selection problem](https://youtu.be/alybycFq2mU)
-
+- [Iterative greedy approach to solve the activity selection problem](https://youtu.be/VPkTE5XoYQ0)
+- [Tracing the Huffman's algorithm - How does the Huffman's algorithm work?](https://youtu.be/qE4tfsiTGjE)
 
 ## Question 1
 Explain the 'activity selection problem' by creating a problem of your own. You are free to create any problem, as long as it is similar to a standard activity selection problem.
