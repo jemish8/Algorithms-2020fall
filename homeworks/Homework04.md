@@ -28,8 +28,8 @@ The iterative greedy activity selection algorithm has a running time of Ө(n). B
 ## Question 4
 Discuss the difference/s between the greedy algorithm and the dynamic programming method with the help of the two versions of the knapsack problem. Include in your discussion how the greedy-choice property holds true only for one of the knapsack problems.
 
-## Question 5 (programming)
-The "non structural protein 2" (`nsp2`) protein is found to be linked to the mechanism of Coronavirus ([read more](https://onlinelibrary.wiley.com/doi/10.1002/jmv.25719)). Below is the sequence of this protein (first two lines, ignoring the line starting with a hash). In addition to the sequence of this protein, below are the sequences of two other similar (homologous) proteins (see [nsp2.hhba3m.txt](./nsp2.hhba3m.txt) for the alignment). Implement a dynamic programming solution to calculate the longest common subsequence (LCS) between - (a) `nsp2` and `A0A1B3Q5V8` and (b) `nsp2` and `Q9YMB7`. These are two problems that can be solved using the same implementation/code. Lower-case letters in the sequences, if there are any, must be skipped totally. You should print not just the length of the LCS but also the actual LCS.
+## Question 5 
+To solve the activity selection problem, the technique of sorting activities by their number of overlaps and then selecting the activities that have minimum overlaps with other activities, does not work. Illustrate this with a simple example.
 
 ## Question 6
 When we use prefix codes to encode text, we can simply concatenate the codewords, i.e. we don't need a symbol to separate the codewords. Why doesn't this cause problems when decoding?
