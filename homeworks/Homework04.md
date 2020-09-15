@@ -54,7 +54,7 @@ What is the optimal Huffman code for the following set of frequencies, based on 
 a:1 b:1 c:2 d:3 e:5 f:8 g:13 h:21
 ```
 
-## Question 10
+## Question 10 (programming)
 Compress [reddit_relationshipadvice_legaladvice_2000.txt](./reddit_relationshipadvice_legaladvice_2000.txt) using the Huffman's algorithm implemented below. Extend the code to read the file and write the compressed file. How will you verify that the codewords make sense?
 
 ----
