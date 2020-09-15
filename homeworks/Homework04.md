@@ -4,14 +4,12 @@
 Please read this with the goal of using the knowledge to do the homework below.
 
 ## Watch the recorded lectures
-- [When is dynamic programming applicable and how to apply it?](https://www.youtube.com/watch?v=G4bsu48KVvs)
-- [Example applications of dynamic programming](https://www.youtube.com/watch?v=Y9hfE7Y2hi4)
-- [Solving the Matrix-chain multiplication problem using dynamic programming](https://youtu.be/qiB8GmqUJOU)
-- [The Alignment Game and the Longest Common Subsequence Problem](https://youtu.be/W-WtMvNdEcM)
-- [What is the longest common subsequence problem?](https://youtu.be/k1OmILy0Jmo)
-- [Recursive solution for the longest common subsequence problem](https://youtu.be/btmBOSTLyzA)
-- [Optimal-substructure property of the longest common subsequence problem](https://youtu.be/gclucr32fHg)
-- [Dynamic programming for solving the longest common subsequence problem](https://youtu.be/FG17mqIwGDs)
+- [Why study greedy algorithms?](https://youtu.be/gHWxmb_nVpY)
+- [The activity selection problem for understanding greedy algorithms](https://youtu.be/tEfVXgrP6WU)
+- [Optimal substructure of the activity selection problem](https://youtu.be/LmlHHSr7gys)
+- [Intuition for understanding how greedy algorithms work](https://youtu.be/BWlXudP7Unk)
+- [Recursive greedy algorithm for the activity selection problem](https://youtu.be/alybycFq2mU)
+
 
 ## Question 1
 Explain the 'activity selection problem' by creating a problem of your own. You are free to create any problem, as long as it is similar to a standard activity selection problem.
@@ -46,10 +44,10 @@ Fixed-lenth codeword | 000 | 001 | 010 | 011 | 100 | 101
 Variable-length codeword |  0 |  101 | 100 | 111 | 1101 | 1100
 
 ## Question 8
-Create a string by concatenaring your first name, middle name and last name. Use the Huffman coding algorithm to create a codeword for each of the letter in your name. Start by creating a frequency table of letters such that the characters are ordered by their frequency. Most importantly, show the steps of the Huffman's algorithm by displaying how the binary tree grows after each step.
+Create a string by concatenaring your first name, middle name and last name. Use the Huffman coding algorithm to create a codeword for each of the letter in your name. Start by creating a frequency table of letters such that the characters are ordered by their frequency. Most importantly, show the steps of the Huffman's algorithm by displaying how the Huffman (binary) tree grows after each step.
 
 ## Question 9 
-What is the optimal Huffman code for the following set of frequencies, based on the first n Fibonacci numbers? show the steps of the Huffman's algorithm by displaying how the binary tree grows after each step. Optionally, you can also use the Python code below to verify your answer. (from CLRS 16.3-3)
+What is the optimal Huffman code for the following set of frequencies, based on the first n Fibonacci numbers? show the steps of the Huffman's algorithm by displaying how the Huffman (binary) tree grows after each step. Optionally, you can also use the Python code below to verify your answer. (from CLRS 16.3-3)
 ```
 a:1 b:1 c:2 d:3 e:5 f:8 g:13 h:21
 ```
