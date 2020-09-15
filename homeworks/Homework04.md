@@ -40,7 +40,7 @@ When we use prefix codes to encode text, we can simply concatenate the codewords
 The table below represents two methods of encoding (fixed-length and variable-length). Discuss how the variable length encoding saves approximately 25% space.
 
    |  a |  b |  c |  d |  e |  f 
--- | -- | -- | -- | -- | -- | --
+-- | -- | -- | -- | -- | -- | -- 
 Frequency | 45 | 13 | 12 | 16 |  9 |  5
 Fixed-lenth codeword | 000 | 001 | 010 | 011 | 100 | 101
 Variable-length codeword |  0 |  101 | 100 | 111 | 1101 | 1100
