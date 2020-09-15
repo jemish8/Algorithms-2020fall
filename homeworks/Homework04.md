@@ -44,7 +44,7 @@ Fixed-lenth codeword | 000 | 001 | 010 | 011 | 100 | 101
 Variable-length codeword |  0 |  101 | 100 | 111 | 1101 | 1100
 
 ## Question 8
-Create a string by concatenaring your first name, middle name and last name. Use the Huffman coding algorithm to create a codeword for each of the letter in your name. Start by creating a frequency table of letters such that the characters are ordered by their frequency. Most importantly, show the steps of the Huffman's algorithm by displaying how the Huffman (binary) tree grows after each step.
+Create a string by concatenating your first name, middle name and last name. Use the Huffman coding algorithm to create a codeword for each of the letter in your name. Start by creating a frequency table of letters such that the characters are ordered by their frequency. Most importantly, show the steps of the Huffman's algorithm by displaying how the Huffman (binary) tree grows after each step.
 
 ## Question 9 
 What is the optimal Huffman code for the following set of frequencies, based on the first n Fibonacci numbers? show the steps of the Huffman's algorithm by displaying how the Huffman (binary) tree grows after each step. Optionally, you can also use the Python code below to verify your answer. (from CLRS 16.3-3)
