@@ -1,6 +1,5 @@
 # Homework 3
 
-
 ## Read sections 15.2, 15.3, and 15.4 from CLRS
 Please read this with the goal of using the knowledge to do the homework below.
 
