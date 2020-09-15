@@ -21,8 +21,8 @@ In Python, implement (a) a recursive solution, (b) a dynamic programming solutio
 
 i  |  1 |  2 |  3
 -- | -- | -- | --  
-si |  1 |  3 |  0
-fi |  4 |  5 |  6 
+s<sub>i</sub> |  1 |  3 |  0
+f<sub>i</sub> |  4 |  5 |  6 
 
 ## Question 3 (programming)
 For the problem of calculating n<sup>th</sup> Fibonacci number - (a) propose a recursive solution (implementation), (b) a dynamic programming solution using the top-down approach, and (c) a dynamic programming solution using the bottom-up approach. Test the running time of the three implemetations with large values of n and discuss your running time.
