@@ -22,7 +22,6 @@ In Python, implement (a) a recursive solution, (b) a dynamic programming solutio
 i  |  1 |  2 |  3
 -- | -- | -- | --  
 si |  1 |  3 |  0
--- | -- | -- | --  
 fi |  4 |  5 |  6 
 
 ## Question 3 (programming)
