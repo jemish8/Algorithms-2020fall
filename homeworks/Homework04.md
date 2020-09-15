@@ -20,7 +20,7 @@ Explain the 'activity selection problem' by creating a problem of your own. You 
 In Python, implement (a) a recursive solution, (b) a dynamic programming solution, (c) a recursive greey solution, and (d) an iterative greedy solution to the following activity selection problem.
 
 i  |  1 |  2 |  3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
--- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --  
+-- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --  | --
 s<sub>i</sub> |  1 |  3 |  0 | 5 | 3 | 5 | 6 | 8 | 8 | 2 | 12 
 f<sub>i</sub> |  4 |  5 |  6 | 7 | 9 | 9 | 10 | 11 | 12 | 14 | 16
 
