@@ -10,6 +10,7 @@ Please read this with the goal of using the knowledge to do the homework below.
 - [Intuition for understanding how greedy algorithms work](https://youtu.be/BWlXudP7Unk)
 - [Recursive greedy algorithm for the activity selection problem](https://youtu.be/alybycFq2mU)
 - [Iterative greedy approach to solve the activity selection problem](https://youtu.be/VPkTE5XoYQ0)
+- [Huffman coding and Huffman trees](https://youtu.be/JsTptu56GM8)
 - [Tracing the Huffman's algorithm - How does the Huffman's algorithm work?](https://youtu.be/qE4tfsiTGjE)
 
 ## Question 1
