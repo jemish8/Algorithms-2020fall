@@ -52,7 +52,7 @@ Create a string by concatenating your first name, middle name and last name. Use
 ## Question 9 
 What is the optimal Huffman code for the following set of frequencies, based on the first n Fibonacci numbers? show the steps of the Huffman's algorithm by displaying how the Huffman (binary) tree grows after each step. Optionally, you can also use the Python code below to verify your answer. (from CLRS 16.3-3)
 ```
-a:1 b:1 c:2 d:3 e:5 f:8 g:13 h:21
+a:1  b:1  c:2  d:3  e:5  f:8  g:13  h:21
 ```
 
 ## Question 10 (programming)
