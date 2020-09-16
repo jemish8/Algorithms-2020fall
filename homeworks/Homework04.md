@@ -4,10 +4,10 @@
 Please read this with the goal of using the knowledge to do the homework below.
 
 ## Watch the recorded lectures
-- [Why study greedy algorithms?](https://youtu.be/gHWxmb_nVpY)
-- [The activity selection problem for understanding greedy algorithms](https://youtu.be/tEfVXgrP6WU)
-- [Optimal substructure of the activity selection problem](https://youtu.be/LmlHHSr7gys)
-- [Intuition for understanding how greedy algorithms work](https://youtu.be/BWlXudP7Unk)
+1. [Why study greedy algorithms?](https://youtu.be/gHWxmb_nVpY)
+1. [The activity selection problem for understanding greedy algorithms](https://youtu.be/tEfVXgrP6WU)
+1. [Optimal substructure of the activity selection problem](https://youtu.be/LmlHHSr7gys)
+1. [Intuition for understanding how greedy algorithms work](https://youtu.be/BWlXudP7Unk)
 - [Recursive greedy algorithm for the activity selection problem](https://youtu.be/alybycFq2mU)
 - [Iterative greedy approach to solve the activity selection problem](https://youtu.be/VPkTE5XoYQ0)
 - [Huffman coding and Huffman trees](https://youtu.be/JsTptu56GM8)
