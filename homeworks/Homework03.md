@@ -20,7 +20,7 @@ Discuss a problem where dynamic programming is not applicable and explain why dy
 With the help of an example, discuss the steps involved in developing a dynamic programming algorithm to solve a problem.
 
 ## Question 3 (programming)
-For the problem of calculating n<sup>th</sup> Fibonacci number - (a) propose a recursive solution (implementation), (b) a dynamic programming solution using the top-down approach, and (c) a dynamic programming solution using the bottom-up approach. Test the running time of the three implemetations with large values of n and discuss your running time.
+For the problem of calculating n<sup>th</sup> Fibonacci number - (a) propose a recursive solution (implementation), (b) a dynamic programming solution using the top-down approach, and (c) a dynamic programming solution using the bottom-up approach. Test the running time of the three implemetations with large values of n and discuss your running time. You can use (not required) the libraries such as [timeit](https://docs.python.org/3/library/timeit.html) to check your running times.
 
 ## Question 4
 What is the matrix chain multiplication problem? Discuss how dynamic programming can be applied to solve it.
