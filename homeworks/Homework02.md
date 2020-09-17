@@ -45,4 +45,4 @@ Discuss why the recursive solution to the rod cutting problem is so inefficient?
 Discuss the two dynamic programing approaches. If you were asked to implement, which one would you choose, and why?
 
 # Question 5
-Comapare and discuss the running times of a recursive solution (without memoization) and a the dynamic programming solution to the rod curring problem.
+Compare and discuss the running times of a recursive solution (without memoization) and a the dynamic programming solution to the rod curring problem.
