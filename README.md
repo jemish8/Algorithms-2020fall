@@ -101,7 +101,7 @@ The finals for this course will be in the form of a oral test, via Zoom one-on-o
 * Here is an example project by a student who took this course in Fall 2018 - [MAZE-A-TRON game using BFS](http://umsl.edu/~adhikarib/cs4130-fall2017/student-projects/mazeatron/) [report](http://umsl.edu/~adhikarib/cs4130-fall2017/student-projects/mazeatron-report.pdf)
 
 ## L. Homeworks
-* There will be some homeworks from each chapter that we cover. Many of the homeworks will require you to implement algorithms. Some homeworks will require you to trace an algorithm (in paper) and submit your solution. You can take a picture of your solution and submit in Canvas.
+* There will be some homeworks from each chapter that we cover. Many of the homeworks will require you to implement algorithms. These programming homeworks carry more weights. Some homeworks will require you to trace an algorithm (in paper) and submit your solution. You can take a picture of your solution and submit in Canvas.
 
 ## M. Grade composition  
 * Homeworks (including programming homeworks) = 50 points
