@@ -5,6 +5,9 @@
 * Practice Python3 - [notebook](../notebooks/python.ipynb) and watch [lecture](https://www.youtube.com/watch?v=V42qfAPybp8)
 * If you are new to Python, I suggest practicing Python at online platforms such as [codewars.org](https://www.codewars.com/)
 
+# Learn to plot functions
+* Using free online tools such as [Desmos](https://www.desmos.com/calculator)
+
 # Read sections 3.1 and 3.2 from CLRS
 Please read this with the goal of using the knowledge to do the homework below.
 
