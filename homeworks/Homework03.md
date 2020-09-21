@@ -42,3 +42,10 @@ YVDQYMCGADGKPVieGDFKDYFGDEDIIEFEGEEYHCAWTTVRDEKPLNQQTLFTIQEIQYNLDIPHKLPNCATRHVAP
 ## Question 6 (programming)
 Implement a dynamic programming solution to calculate the longest common subsequence (LCS) of `⟨1,0,0,1,0,1,0,1⟩` and `⟨0,1,0,1,1,0,1,1,0⟩` (CLRS: 15.4-1). You can reuse the code that you developed for solving Q#5.
 
+# Optional
+
+## Question 7 
+Let X = ⟨x 1 , x 2 , …, x m ⟩ and Y = ⟨y 1 , y 2 , …, y n ⟩ be sequences, and let Z = ⟨z 1 , z 2 , …, z k ⟩ be any LCS of X
+and Y. Describe, mathematically, how the LCS problem exhibits the optimal substructure property. (Hint:
+consider three cases).
+
