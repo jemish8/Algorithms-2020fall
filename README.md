@@ -106,8 +106,8 @@ The finals for this course will be in the form of a oral test, via Zoom one-on-o
 ## M. Grade composition  
 * Homeworks (including programming homeworks) = 50 points
 * Project = 10 points
-* Mid-term oral exam = 10 points
-* Final oral exam = 40 points
+* Mid-term oral exam = 10 points (updated on 09/22)
+* Final oral exam = 30 points
 * 1 bonus point to everyone who complete the course evaluation survey (please email me once you submit the survey)
 
 ## N. Grading scheme  
