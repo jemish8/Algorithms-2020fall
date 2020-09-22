@@ -4,8 +4,8 @@
 Please read this with the goal of using the knowledge to do the homework below.
 
 ## Watch the recorded lectures
-1. [Huffman coding and Huffman trees](https://youtu.be/JsTptu56GM8)
-1. [Tracing the Huffman's algorithm - How does the Huffman's algorithm work?](https://youtu.be/qE4tfsiTGjE)
+1. [Amortized analysis - aggregate analysis - stack operations](https://youtu.be/bEtKIn-w-l0)
+1. [The k-bit counter](https://youtu.be/2kUTu0sI_Rs)
 
 ## Question 1
 What is the difference between amortized analysis and average-case analysis? Why is ammortized analysis important?
