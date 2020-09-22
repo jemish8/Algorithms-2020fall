@@ -17,7 +17,7 @@
 ## D. Textbook  
 CLRS 3rd Edition (ISBN 978-0-262-03384-8 or ISBN 978-0-262-53305-8); at [amazon](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844#ace-g7448806443).
 
-## E. Course topics (Book's sections)
+## E. Course topics (Book's sections) and tentative schedule
 
 * **Chapter 3 - Growth of Functions**  
   - 3.1 Asymptotic notation  
@@ -76,6 +76,8 @@ CLRS 3rd Edition (ISBN 978-0-262-03384-8 or ISBN 978-0-262-53305-8); at [amazon]
   - 35.1 The vertex-cover problem  
   - 35.2 The traveling-salesman problem  
   - 35.3 The set-covering problem  
+
+<img src="supporting_files/schedule.png" align="middle" width="450"/>
 
 ## F. General policies
 * Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our `turnitin` tool automatically checks for plagarism; Here is an [example](supporting_files/turn-it-in.png).
