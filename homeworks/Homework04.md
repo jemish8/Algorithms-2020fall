@@ -10,10 +10,10 @@ Please read this with the goal of using the knowledge to do the homework below.
 1. [Intuition for understanding how greedy algorithms work](https://youtu.be/BWlXudP7Unk)
 1. [Recursive greedy algorithm for the activity selection problem](https://youtu.be/alybycFq2mU)
 1. [Iterative greedy approach to solve the activity selection problem](https://youtu.be/VPkTE5XoYQ0)
-1. [Greedy algorithm vs dynamic programming]()
+1. [Greedy algorithm vs dynamic programming](https://youtu.be/DXnQQVzfnRo)
 
 ## Question 1
-Explain the 'activity selection problem' by creating a problem of your own. You are free to create any problem, as long as it is similar to a standard activity selection problem.
+Explain the 'activity selection problem' by creating a problem of your own, with a table similar to the activity selection problem. You are free to create any problem, as long as it is similar to a standard activity selection problem.
 
 ## Question 2 (programming)
 In Python, implement (a) a recursive solution, (b) a dynamic programming solution, (c) a recursive greey solution, and (d) an iterative greedy solution to the following activity selection problem.
