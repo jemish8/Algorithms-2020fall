@@ -32,6 +32,6 @@ Discuss the difference/s between the greedy algorithm and the dynamic programmin
 ## Question 5 
 To solve the activity selection problem, the technique of sorting activities by their number of overlaps and then selecting the activities that have minimum overlaps with other activities, does not work. Illustrate this with a simple example.
 
-## Optional Question (not for bonus points)
+## Optional Question (possible bonus points)
 Discuss how the activity selection problem exhibits the optimal substructure property.
 
