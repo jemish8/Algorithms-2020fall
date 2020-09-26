@@ -36,6 +36,7 @@ def recursive_activity_selector(activities):
         left = []
         
         
+        
         # Step2: Obtain activities that start after i finishes
         right = []
         
