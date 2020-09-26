@@ -72,7 +72,7 @@ print(num_optimal_activities)
 print(solution)
 ```
 
-`
+```
 All activities
 [(1, 4), (3, 5), (0, 6), (5, 7), (3, 9), (5, 9), (6, 10), (8, 11), (8, 12), (2, 14), (12, 16)]
 
@@ -81,7 +81,7 @@ First activity, its start time, and finish time
 
 4
 [(1, 4), (5, 7), (8, 11), (12, 16)]
-`
+```
 
 ## Question 3 (programming)
 The iterative greedy activity selection algorithm has a running time of Ө(n). But the algorithm assumes that the activities are sorted by their finish times. If the activities are not sorted, how can we get the algorithm to work? What will be the new running time?
