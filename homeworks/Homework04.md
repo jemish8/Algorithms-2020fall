@@ -23,6 +23,7 @@ i  |  1 |  2 |  3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
 s<sub>i</sub> |  1 |  3 |  0 | 5 | 3 | 5 | 6 | 8 | 8 | 2 | 12 
 f<sub>i</sub> |  4 |  5 |  6 | 7 | 9 | 9 | 10 | 11 | 12 | 14 | 16
 
+Template for the recursive implementation:
 ```python
 def recursive_activity_selector(activities):
     if len(activities) < 1:
@@ -35,12 +36,12 @@ def recursive_activity_selector(activities):
         # Step1: Obtain activities that finish before i starts
         left = []
         
-        
+        # ToDo:
         
         # Step2: Obtain activities that start after i finishes
         right = []
         
-        
+        # ToDo:
         
         # Step3: Check if selecting this activity increases the count
         c_left = recursive_activity_selector(left) 
@@ -72,6 +73,7 @@ print(num_optimal_activities)
 print(solution)
 ```
 
+Expected output:
 ```
 All activities
 [(1, 4), (3, 5), (0, 6), (5, 7), (3, 9), (5, 9), (6, 10), (8, 11), (8, 12), (2, 14), (12, 16)]
