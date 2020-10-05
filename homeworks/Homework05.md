@@ -16,7 +16,7 @@ The table below represents two methods of encoding (fixed-length and variable-le
 Character |  a |  b |  c |  d |  e |  f 
 -- | -- | -- | -- | -- | -- | -- 
 Frequency | 45 | 13 | 12 | 16 | 9 | 5
-Fixed-lenth codeword | 000 | 001 | 010 | 011 | 100 | 101
+Fixed-length codeword | 000 | 001 | 010 | 011 | 100 | 101
 Variable-length codeword |  0 |  101 | 100 | 111 | 1101 | 1100
 
 ## Question 3
